@@ -1,6 +1,6 @@
 {
   "name": "@markjameshoward/say-hi-plugin",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -11,6 +11,6 @@
     "typescript": "^4.9.5"
   },
   "peerDependencies": {
-    "@markjameshoward/say-hi": "^1.0.0"
+    "@markjameshoward/say-hi": "^2.0.0"
   }
 }
