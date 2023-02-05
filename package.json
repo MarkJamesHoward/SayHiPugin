@@ -11,6 +11,6 @@
     "typescript": "^4.9.5"
   },
   "peerDependencies": {
-    "@markjameshoward/say-hi": "~0.0.1"
+    "@markjameshoward/say-hi": "^0.0.1"
   }
 }
