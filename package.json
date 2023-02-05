@@ -1,0 +1,16 @@
+{
+  "name": "@markjameshoward/say-hi-plugin",
+  "version": "0.0.4",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "peerDependencies": {
+    "@markjameshoward/say-hi": "^0.0.1"
+  }
+}
