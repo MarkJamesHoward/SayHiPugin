@@ -1,7 +1,7 @@
 interface IPluginCommand {
-  SayHi(): string;
+  GetHi(): string;
 }
 
-export function SayHi() {
+export function GetHi() {
   return "called hello from HelloPlugin";
 }

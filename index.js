@@ -1,3 +1,3 @@
-export function SayHi() {
+export function GetHi() {
     return "called hello from HelloPlugin";
 }
